@@ -1,5 +1,5 @@
 # Integrated 3D Interactive Subsea ROV and AUV Visualization using Python
-This repository hosts a proof-of-concept, integrated 3D ROV and AUV, displayed together in a single interactive browser window with Plotly. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
+This repository hosts a proof-of-concept, integrated 3D interactive ROV and AUV, displayed together in a single interactive browser window with Plotly. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
 
 Github Pages Link: https://maribickpostanes.github.io/Integrated-Subsea-ROV-and-AUV-Visualization-3D/
 
