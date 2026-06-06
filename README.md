@@ -7,9 +7,9 @@ Github Pages Link: https://maribickpostanes.github.io/Integrated-Subsea-ROV-and-
 
 ## 3D Model Sources:
 - Remotely Operated Vehicle (ROV):
-  - Model: ROV WorkClass by Jose Augusto da Costa via GrabCAD
+  - 3D Model: ROV WorkClass by Jose Augusto da Costa via GrabCAD
   - File: ROV Workclass.STEP (50.3 MB)
 - Unmanned Underwater Vehicle (UUV):
-  - Model: UUV by Sayed Mamdouh via GrabCAD
+  - 3D Model: UUV by Sayed Mamdouh via GrabCAD
   - File: UUV.STEP (2.16 MB)
 - Format: CAD Exchange Format (.step)
